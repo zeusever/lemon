@@ -1,0 +1,15 @@
+[submodule "cmake"]
+	path = cmake
+	url = git@github.com:zeusever/lemon-cmake.git
+[submodule "sources/lemon"]
+	path = sources/lemon
+	url = git@github.com:zeusever/lemon-lib.git
+[submodule "sources/lemonxx"]
+	path = sources/lemonxx
+	url = git@github.com:zeusever/lemonxx-lib.git
+[submodule "unittest/lemon"]
+	path = unittest/lemon
+	url = git@github.com:zeusever/lemon-unittest.git
+[submodule "unittest/lemonxx"]
+	path = unittest/lemonxx
+	url = git@github.com:zeusever/lemonxx-unittest.git
