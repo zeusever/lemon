@@ -13,3 +13,6 @@
 [submodule "unittest/lemonxx"]
 	path = unittest/lemonxx
 	url = git@github.com:zeusever/lemonxx-unittest.git
+[submodule "tools/lemon"]
+	path = tools/lemon
+	url = git@github.com:zeusever/lemon-tools.git
